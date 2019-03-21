@@ -1,0 +1,27 @@
+input {
+  height: 20px;
+  padding: 5px;
+  font-size: 15px;
+}
+
+button {
+  padding: 2px;
+  height: 36px;
+  vertical-align: top;
+  background-color: red;
+  width: 70px;
+  color: black;
+  font-size: 25px;
+  border: solid 1px black;
+}
+
+span {
+  color:red;
+}
+
+img{
+    height:50%;
+    width:60%;
+}
+body{
+    background-color:#42f4d4;}
